@@ -1,8 +1,19 @@
-# Random Quote 
+# Quote Generator
 
-API for random quote generation
+Generates templated quote posters for social media platforms. 
+
+Backend alone can be used as a quote generation API.
+ 
+Technologies used:
  * Frontend: Angular
- * Backend: Node Express
+ * Backend: Node.js (Express)
 
-# Screenshot
-![alt text](https://github.com/AmeerMuhammed/RandomQuote/blob/master/screenshot.png "Random Quote Screenshot")
+# Screenshots
+![sample](https://github.com/AmeerMuhammed/QuoteGenerator/blob/master/back-end-node-express/posts/post1202.png")
+![sample](https://github.com/AmeerMuhammed/QuoteGenerator/blob/master/back-end-node-express/posts/post1208.png")
+![sample](https://github.com/AmeerMuhammed/QuoteGenerator/blob/master/back-end-node-express/posts/post1210.png")
+![sample](https://github.com/AmeerMuhammed/QuoteGenerator/blob/master/back-end-node-express/posts/post1200.png")
+
+Backend alone as API:
+
+![sample](https://github.com/AmeerMuhammed/RandomQuote/blob/master/screenshot.png "Random Quote Screenshot")
