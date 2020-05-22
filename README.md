@@ -1,4 +1,4 @@
-# Quote Generator
+# Templated Poster Generator
 
 Generates templated quote posters for social media platforms. 
 
@@ -8,8 +8,11 @@ Technologies used:
  * Frontend: Angular
  * Backend: Node.js (Express)
 
-# Screenshots
+# Samples
+Posters generated:
+
 ![sample](https://github.com/AmeerMuhammed/QuoteGenerator/blob/master/back-end-node-express/posts/post1200.png)
+
 ![sample](https://github.com/AmeerMuhammed/QuoteGenerator/blob/master/back-end-node-express/posts/post1210.png)
 
 Backend alone as an API:
