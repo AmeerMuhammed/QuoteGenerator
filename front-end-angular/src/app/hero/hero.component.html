@@ -1,0 +1,12 @@
+<div class="jumbotron my-auto">
+    <h1 class="display-4">Need a quote!</h1>
+    <hr class="my-4">
+    <p class="lead">{{data.text}}</p>
+    <p class="lead">{{data.author}}</p>
+    <p class="lead">
+        <a (click)="this.getterfunc()" class="btn btn-primary btn-lg mx-2" href="#" role="button">New quote<i
+                class="fa fa-repeat"></i></a>
+        <a (click)="this.copyfunc()" class="btn btn-primary btn-lg mx-2" href="#" role="button">Copy to Clipboard<i
+                class="fa fa-copy"></i></a>
+    </p>
+</div>

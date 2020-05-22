@@ -1,0 +1,14 @@
+<div class="container m-0" [style.background-image]="'url(' + bgUrl + ')'">
+    <div class="content my-auto">
+        <div class="quote" [innerHTML]="data.text">
+        </div>
+        <div class="author">
+            {{data.author}}
+        </div>
+    </div>
+    <div class="footer">
+        <div class="mx-5">
+            <i class="fa fa-instagram" aria-hidden="true"></i>&ensp;{{handle}}
+        </div>
+    </div>
+</div>
